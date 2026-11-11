@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hironori Kakizaki | 柿﨑 寛明
 
-<!--
-**hiro-kaki-dev/hiro-kaki-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**IT Consultant | Technical PMO**
 
-Here are some ideas to get you started:
+I'm Hironori Kakizaki (柿﨑 寛明, also written as 柿崎 寛明), a freelance IT consultant and Technical PMO based in Tokyo, Japan.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My work focuses on system design reviews, technical coordination, IT governance, and supporting technical decision-making.
+
+I also run **EngiMarriage**, a matchmaking service specializing in IT professionals.
+
+### Connect
+
+- [EngiMarriage](https://engmrg.com/)
+- [LinkedIn](https://www.linkedin.com/in/hironori-kakizaki-722669174/)
